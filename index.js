@@ -10,7 +10,7 @@ const bot = new TelegramBot(token, {polling: true});
 // Handler untuk command /start
 bot.onText(/\/start/, (msg) => {
   const chatId = msg.chat.id;
-  const message = 'Halo! Ketikkan perintah /lookup <host> untuk melakukan lookup DNS.';
+  const message = 'Halo, this matic.eu.org! Ketikkan perintah /lookup <host> untuk melakukan lookup DNS.';
   bot.sendMessage(chatId, message);
 });
 
