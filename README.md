@@ -9,3 +9,15 @@ for using this bot, requirements install needed for bot
 ```bash
 apt-get update -y && apt-get upgrade -y
 ```
+
+```bash
+apt install nodejs
+```
+
+```bash
+apt install npm
+```
+
+```bash
+npm install npm install node-telegram-bot-api dns
+```
