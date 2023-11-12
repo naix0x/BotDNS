@@ -55,9 +55,22 @@ and for run this bot
 node index.js
 ```
 
-# Social
+## Social
 
 Feel free chat me if get problem
 
 Instagram : https://instagram.com/bovalonee
+
 Email : ask@matic.eu.org
+
+## 🤝 Contributing
+
+If you find a bug or want to suggest a new feature, please open an issue or submit a pull request. Contributions are welcome and appreciated!
+
+## 📝 License
+
+This project is licensed under the [MIT License](https://github.com/naix0x/BotDNS/blob/main/LICENSE).
+
+## 👥 Forks and Stars
+
+If you find this project useful, please give it a star ⭐ and consider forking it 🍴 to support its development and help it reach a wider audience.
