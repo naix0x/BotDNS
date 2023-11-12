@@ -23,7 +23,7 @@ apt install npm
 ```
 
 ```bash
-npm install npm install node-telegram-bot-api dns
+npm install node-telegram-bot-api dns
 ```
 
 # Run this bot
