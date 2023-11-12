@@ -46,3 +46,10 @@ and for run this bot
 ```bash
 node index.js
 ```
+
+# Social
+
+Feel free chat me if get problem
+
+Instagram : https://instagram.com/bovalonee
+Email : ask@matic.eu.org
