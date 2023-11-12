@@ -10,7 +10,7 @@ Bot DNS lookup telegram, using nodejs and library dns resolver for using lookup 
 </p>
 
 
-## Requirements 
+## 🦖 Requirements 
 
 for using this bot, requirements install needed for bot
 
@@ -34,7 +34,7 @@ apt install npm
 npm install node-telegram-bot-api dns
 ```
 
-## Run this bot
+## 🚀 Run this bot
 
 Prepare youre API Token telegram.
 
