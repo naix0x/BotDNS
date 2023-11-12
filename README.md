@@ -1,6 +1,8 @@
 # BotDNS
 Bot DNS lookup telegram, using nodejs and library dns resolver for using lookup A,AAAA,NS,MX,TXT,SOA etc
 
+![image.png]( {https://github.com/naix0x/BotDNS/blob/d67866a83b550c6fa89a0c501e122b94116637b5/Screenshot_20231112-164920_Telegram.jpg} )
+
 
 # Requirements 
 
