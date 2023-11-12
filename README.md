@@ -59,7 +59,7 @@ node index.js
 
 Feel free chat me if get problem
 
-Instagram : https://instagram.com/bovalonee
+Instagram : [@bovalonee] (https://instagram.com/bovalonee)
 
 Email : ask@matic.eu.org
 
