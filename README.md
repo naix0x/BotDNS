@@ -5,6 +5,10 @@ Bot DNS lookup telegram, using nodejs and library dns resolver for using lookup 
   <img src="https://raw.githubusercontent.com/naix0x/BotDNS/main/Screenshot_20231112-164920_Telegram.jpg" />
 </p>
 
+p align="center">
+  <img src="https://raw.githubusercontent.com/naix0x/BotDNS/main/Screenshot_20231112-164929_Telegram.jpg" />
+</p>
+
 
 # Requirements 
 
