@@ -1,6 +1,13 @@
 # BotDNS
 Bot DNS lookup telegram, using nodejs and library dns resolver for using lookup A,AAAA,NS,MX,TXT,SOA etc
 
+This Telegram bot is built using the following technologies:
+
+- 🚀 Nodejs - Language 
+- 🤖 Node Tele Api and DNS Library - Framework
+- 📨 Lookup Host/Domain - URL
+- 🗿 Demo image :
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/naix0x/BotDNS/main/Screenshot_20231112-164920_Telegram.jpg" />
 </p>
