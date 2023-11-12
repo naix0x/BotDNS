@@ -55,7 +55,7 @@ and for run this bot
 node index.js
 ```
 
-## :instagram: Social
+## 🌏 Social
 
 Feel free chat me if get problem
 
