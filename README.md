@@ -56,12 +56,25 @@ cd dns
 ```
 
 ```bash
-setting your api toke  in index.js 
+setting your api token in index.js 
 ```
 
 and for run this bot
 ```bash
 node index.js
+```
+
+if you need this bot run on background
+```javascript
+npm install pm2
+```
+and run this command
+```javascript
+npx pm2 start index.js
+```
+for stop command
+```javascript
+npx pm2 stop index.js
 ```
 
 ## 🌏 Social
