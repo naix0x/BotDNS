@@ -21,8 +21,7 @@ This Telegram bot is built using the following technologies:
 
 ## 🦖 Requirements 
 
-for using this bot, requirements install needed for bot
-
+- for using this bot, requirements install needed for bot
 ```bash
 apt-get update -y && apt-get upgrade -y
 ```
@@ -45,7 +44,7 @@ npm install node-telegram-bot-api dns
 
 ## 🚀 Run this bot
 
-Prepare youre API Token telegram.
+- Prepare youre API Token telegram.
 
 ```bash
 git clone https://github.com/naix0x/BotDNS.git dns
@@ -59,20 +58,20 @@ cd dns
 setting your api token in index.js 
 ```
 
-and for run this bot
+- and for run this bot
 ```bash
 node index.js
 ```
 
-if you need this bot run on background
+- if you need this bot run on background
 ```javascript
 npm install pm2
 ```
-and run this command
+- and run this command
 ```javascript
 npx pm2 start index.js
 ```
-for stop command
+- for stop command
 ```javascript
 npx pm2 stop index.js
 ```
@@ -81,9 +80,9 @@ npx pm2 stop index.js
 
 Feel free chat me if get problem
 
-Instagram : [Bovalonee](https://instagram.com/bovalonee)
+- Instagram : [Bovalonee](https://instagram.com/bovalonee)
 
-Email : ask@matic.eu.org
+- Email : ask@matic.eu.org
 
 ## 🤝 Contributing
 
