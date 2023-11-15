@@ -1,3 +1,12 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/naix0x/BotDNS/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/naix0x/BotDNS)
+![GitHub contributors](https://img.shields.io/github/contributors/naix0x/BotDNS)
+![GitHub last commit](https://img.shields.io/github/last-commit/naix0x/BotDNS)
+![GitHub forks](https://img.shields.io/github/forks/naix0x/BotDNS)
+![GitHub issues](https://img.shields.io/github/issues-raw/BotDNS)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/BotDNS)
+![GitHub stars](https://img.shields.io/github/stars/naix0x/BotDNS)
+
 # BotDNS
 Bot DNS lookup telegram, using nodejs and library dns resolver for using lookup A,AAAA,NS,MX,TXT,SOA etc
 
