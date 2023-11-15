@@ -3,8 +3,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/naix0x/BotDNS)
 ![GitHub last commit](https://img.shields.io/github/last-commit/naix0x/BotDNS)
 ![GitHub forks](https://img.shields.io/github/forks/naix0x/BotDNS)
-![GitHub issues](https://img.shields.io/github/issues-raw/BotDNS)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/BotDNS)
+![GitHub issues](https://img.shields.io/github/issues-raw/naix0x/BotDNS)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/naix0x/BotDNS)
 ![GitHub stars](https://img.shields.io/github/stars/naix0x/BotDNS)
 
 # BotDNS
